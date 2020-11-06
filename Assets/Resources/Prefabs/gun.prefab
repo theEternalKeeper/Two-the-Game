@@ -95,12 +95,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rateOfFire: 2
-  timeOfFire: 3
-  bulletForce: 200
-  bulletDamage: 0
+  bulletDamage: 3
   currentSpread: 0
-  maxSpread: 0.1
+  maxSpread: 0.2
   spreadRate: 0.01
-  spreadRecovery: 0.005
+  spreadRecovery: 0.01
   semiAuto: 1
+  shooting: 0
   bullet: {fileID: 5452654994412652133, guid: 4e9c7d06bef45ec45801f0013694ee5f, type: 3}

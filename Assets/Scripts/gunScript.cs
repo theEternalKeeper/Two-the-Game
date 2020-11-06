@@ -20,6 +20,8 @@ public class gunScript : MonoBehaviour
 
     public bool semiAuto;
 
+    public bool shooting = false;
+
     public GameObject bullet;
 
     Vector2 shootDirection;
@@ -32,23 +34,9 @@ public class gunScript : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-        if (semiAuto == true)
-        {
-            if (Input.GetButtonDown("Fire1"))
-            {
-                Shoot();
-            }
-        }
-        else if (semiAuto != true)
-        {
-            if (Input.GetButton("Fire1") && Time.time >= timeToFire)
-            {
-                timeToFire = Time.time + 1f / rateOfFire;
-                Shoot();
-            }
-        };
+
 
         currentSpread -= spreadRecovery * Time.deltaTime;
         if (currentSpread <= 0)
@@ -56,29 +44,56 @@ public class gunScript : MonoBehaviour
             currentSpread = 0;
         }
 
+        if (shooting == true)
+        {
+            Shoot();
+        }
+
     }
 
-    void Shoot ()
+    public void Shoot ()
     {
-
-        shootDirection = gameObject.transform.up;
-        shootDirection.x += Random.Range(-currentSpread, currentSpread);
-        shootDirection.y += Random.Range(-currentSpread, currentSpread);
-        RaycastHit2D hit = Physics2D.Raycast(gameObject.transform.position, shootDirection, 50f);
-        Debug.DrawRay(gameObject.transform.position, shootDirection, Color.red);
-        if (hit)
+        if (semiAuto == true)
         {
+            shootDirection = gameObject.transform.up;
+            shootDirection.x += Random.Range(-currentSpread, currentSpread);
+            RaycastHit2D hit = Physics2D.Raycast(gameObject.transform.position, shootDirection, 50f);
+            Debug.DrawRay(gameObject.transform.parent.position, shootDirection, Color.red);
+            if (hit)
+            {
 
-            Debug.Log(hit.collider.name);
-            hit.transform.SendMessage("ApplyDamage", bulletDamage);
-            hit.transform.GetComponent<SpriteRenderer>().color = Color.red;
+                Debug.Log(hit.collider.name);
+                hit.transform.SendMessage("ApplyDamage", bulletDamage);
+
+            }
+
+            currentSpread += spreadRate;
+            if (currentSpread >= maxSpread)
+            {
+                currentSpread = maxSpread;
+            }
+            shooting = false;
         }
- 
-        currentSpread += spreadRate;
-        if (currentSpread >= maxSpread)
+        else if (semiAuto != true && Time.time >= timeToFire)
         {
-            currentSpread = maxSpread;
-        }
+            shootDirection = gameObject.transform.up;
+            shootDirection.x += Random.Range(-currentSpread, currentSpread);
+            RaycastHit2D hit = Physics2D.Raycast(gameObject.transform.position, shootDirection, 50f);
+            Debug.DrawRay(gameObject.transform.parent.position, shootDirection, Color.red);
+            if (hit)
+            {
+
+                Debug.Log(hit.collider.name);
+                hit.transform.SendMessage("ApplyDamage", bulletDamage);
+            }
+
+            currentSpread += spreadRate;
+            if (currentSpread >= maxSpread)
+            {
+                currentSpread = maxSpread;
+            }
+            timeToFire = Time.time + 1f / rateOfFire;
+        };
     }
 
     /*        GameObject projectile = Instantiate(bullet, gameObject.transform.position, gameObject.transform.rotation);

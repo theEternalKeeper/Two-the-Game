@@ -1,0 +1,2186 @@
+fileFormatVersion: 2
+guid: cb621e8fe35d74e499919ffbaa734ef3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5029107266592095407
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_0
+  - first:
+      213: -2560338268130425270
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_1
+  - first:
+      213: 746649732379049112
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_2
+  - first:
+      213: 6220957543653144006
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_3
+  - first:
+      213: 5898724722104075014
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_4
+  - first:
+      213: -8527668845772688193
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_5
+  - first:
+      213: -6578212539993401271
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_6
+  - first:
+      213: 7194518030767449127
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_7
+  - first:
+      213: -4443311139870852493
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_8
+  - first:
+      213: 6335793768608069737
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_9
+  - first:
+      213: -3819917086228860652
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_10
+  - first:
+      213: -4354298500539657236
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_11
+  - first:
+      213: -4629350312236286709
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_12
+  - first:
+      213: 1314725018390084729
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_13
+  - first:
+      213: 5207045606054330085
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_14
+  - first:
+      213: 1408281071872420118
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_15
+  - first:
+      213: 1537298145183165826
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_16
+  - first:
+      213: 6474250241827172642
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_17
+  - first:
+      213: 8264552184727877520
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_18
+  - first:
+      213: 5043725293757770069
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_19
+  - first:
+      213: 5179711796407780762
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_20
+  - first:
+      213: 3283411249058850473
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_21
+  - first:
+      213: -5285697946882292060
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_22
+  - first:
+      213: -9075143737517797736
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_23
+  - first:
+      213: -7325024437727885060
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_24
+  - first:
+      213: 7985495128289973553
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_25
+  - first:
+      213: 8583638852420974411
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_26
+  - first:
+      213: -15597838678633231
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_27
+  - first:
+      213: -1413347694701533276
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_28
+  - first:
+      213: -5605212763269937921
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_29
+  - first:
+      213: 317750642075420633
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_30
+  - first:
+      213: -5269604648066368491
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_31
+  - first:
+      213: 1481649847043314105
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_32
+  - first:
+      213: 4050170915462540470
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_33
+  - first:
+      213: -8360156828301442098
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_34
+  - first:
+      213: 6386839704145711506
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_35
+  - first:
+      213: -4388117710472079199
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_36
+  - first:
+      213: -2848178773901561009
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_37
+  - first:
+      213: -7487193533549605046
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_38
+  - first:
+      213: 8357560001721582110
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_39
+  - first:
+      213: 9134301729844275389
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_40
+  - first:
+      213: -4377257155937231632
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_41
+  - first:
+      213: 1058620022240453827
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_42
+  - first:
+      213: 1376599030414454613
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_43
+  - first:
+      213: 1027917623706437268
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_44
+  - first:
+      213: 8495277671310480254
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_45
+  - first:
+      213: -5116997395562513394
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_46
+  - first:
+      213: -5093417314884705624
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_47
+  - first:
+      213: 499153918278527823
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_48
+  - first:
+      213: 1880986491466360262
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_49
+  - first:
+      213: -2551196845626367976
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_50
+  - first:
+      213: -4435003656953405443
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_51
+  - first:
+      213: 8761060190195683728
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_52
+  - first:
+      213: 4009391706037054368
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_53
+  - first:
+      213: 8470310247993281522
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_54
+  - first:
+      213: 6455112562250112432
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_55
+  - first:
+      213: -2835352712507694825
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_56
+  - first:
+      213: 8883927247663547489
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_57
+  - first:
+      213: -2535877498139480281
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_58
+  - first:
+      213: -6948501929262801505
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_59
+  - first:
+      213: -388262321142006855
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_60
+  - first:
+      213: 4877619889321426486
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_61
+  - first:
+      213: -1185150838048301525
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_62
+  - first:
+      213: -856936154450749878
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_63
+  - first:
+      213: -1744120017948540128
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_64
+  - first:
+      213: 4034051665326762575
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_65
+  - first:
+      213: 1346048842409008990
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_66
+  - first:
+      213: -3484945717535554466
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_67
+  - first:
+      213: -4960503725764191001
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_68
+  - first:
+      213: 7209778260380503542
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_69
+  - first:
+      213: 3825321052336032392
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_70
+  - first:
+      213: 8662431372000042055
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_71
+  - first:
+      213: 7946250843247231698
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_72
+  - first:
+      213: -4014600252675237633
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_73
+  - first:
+      213: 5502609314513822843
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_74
+  - first:
+      213: -2645598599294453732
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_75
+  - first:
+      213: 2037604909580512125
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_76
+  - first:
+      213: -4897596970958901546
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_77
+  - first:
+      213: 8024509269831830100
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_78
+  - first:
+      213: -9125922753190925498
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_79
+  - first:
+      213: 748330732874922426
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_80
+  - first:
+      213: -462988800678959773
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_81
+  - first:
+      213: -4073499243925631979
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_82
+  - first:
+      213: -7443793665989656422
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_83
+  - first:
+      213: -1644748885747683875
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_84
+  - first:
+      213: -3044017648779220067
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_85
+  - first:
+      213: -3949225313220417599
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_86
+  - first:
+      213: -8898953474800940826
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_87
+  - first:
+      213: 5049249921478754253
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_88
+  - first:
+      213: 7986117595067174113
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_89
+  - first:
+      213: 6238067053923784665
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_90
+  - first:
+      213: -6923182946342724084
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_91
+  - first:
+      213: 8477643410094445493
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_92
+  - first:
+      213: 1143248696107279750
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_93
+  - first:
+      213: -3207036873773347974
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_94
+  - first:
+      213: 811826754687183228
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_95
+  - first:
+      213: -1361309251793620772
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_96
+  - first:
+      213: -2871466678961412305
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_97
+  - first:
+      213: -8071150606713565555
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_98
+  - first:
+      213: -2605863446087503946
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_99
+  - first:
+      213: -5787454827652667715
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_100
+  - first:
+      213: -1811883177842202778
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_101
+  - first:
+      213: -6208058762083315126
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_102
+  - first:
+      213: 3832027732457161034
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_103
+  - first:
+      213: 6516879107398175214
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_104
+  - first:
+      213: 8190136102449472420
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_105
+  - first:
+      213: -7764909272772656530
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_106
+  - first:
+      213: 5928002328035948140
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_107
+  - first:
+      213: -4474489449382113144
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_108
+  - first:
+      213: 1639248485338834547
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_109
+  - first:
+      213: -5932364473982675784
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_110
+  - first:
+      213: -1189818194399553273
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_111
+  - first:
+      213: 1140475713059585028
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_112
+  - first:
+      213: -757627353189340713
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_113
+  - first:
+      213: 136169951902551562
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_114
+  - first:
+      213: 6383500246999181591
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_115
+  - first:
+      213: 1493690648136448667
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_116
+  - first:
+      213: -4894228958547841868
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_117
+  - first:
+      213: -3031914177525897281
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_118
+  - first:
+      213: -4667544853078347059
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_119
+  - first:
+      213: -3308765152009131065
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_120
+  - first:
+      213: -6377997162518284350
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_121
+  - first:
+      213: 1572294953893917826
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_122
+  - first:
+      213: -596189985834318332
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_123
+  - first:
+      213: 3884748991303413783
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_124
+  - first:
+      213: 404491204351554608
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_125
+  - first:
+      213: -5507900690542503398
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_126
+  - first:
+      213: 2948452487781380949
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_127
+  - first:
+      213: 4844468538964140953
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_128
+  - first:
+      213: 1528397975494643016
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_129
+  - first:
+      213: 1610738609615614454
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_130
+  - first:
+      213: -9197125900631358872
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_131
+  - first:
+      213: -7054962857266352075
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_132
+  - first:
+      213: 3450554053857589359
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_133
+  - first:
+      213: -2323785386845364322
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_134
+  - first:
+      213: -6374664235340602136
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_135
+  - first:
+      213: -819993155581373631
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_136
+  - first:
+      213: -5992669069731071713
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_137
+  - first:
+      213: -4669668277488072345
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_138
+  - first:
+      213: 6643448902914343219
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_139
+  - first:
+      213: 8704348665269709638
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_140
+  - first:
+      213: -6405836307970582368
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_141
+  - first:
+      213: -2708056364130811703
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_142
+  - first:
+      213: -3715286612003214727
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_143
+  - first:
+      213: -1859122249038390522
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_144
+  - first:
+      213: 2262076235374012701
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_145
+  - first:
+      213: 4767413551224204764
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_146
+  - first:
+      213: -2920324729800743398
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_147
+  - first:
+      213: 2127980240680126535
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_148
+  - first:
+      213: -3638764136315693259
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_149
+  - first:
+      213: -7323082637942754588
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_150
+  - first:
+      213: -6630357684369921526
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_151
+  - first:
+      213: 5256969742223935890
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_152
+  - first:
+      213: 1950344040281060998
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_153
+  - first:
+      213: 7825550919119141967
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_154
+  - first:
+      213: -8070134504656099611
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_155
+  - first:
+      213: 657599289415811837
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_156
+  - first:
+      213: 6109812091297536115
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_157
+  - first:
+      213: 7420240713957105395
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_158
+  - first:
+      213: 2737003224041049526
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_159
+  - first:
+      213: 91907738747258560
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_160
+  - first:
+      213: 5280223535205135972
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_161
+  - first:
+      213: 4058823625912158162
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_162
+  - first:
+      213: -5003997472297930559
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_163
+  - first:
+      213: -1653740439581614657
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_164
+  - first:
+      213: -4505502542330543724
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_165
+  - first:
+      213: 4870083563305651275
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_166
+  - first:
+      213: -8500789790577314886
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_167
+  - first:
+      213: -9105322854143718035
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_168
+  - first:
+      213: 7291617934509362746
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_169
+  - first:
+      213: 3502983542193739922
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_170
+  - first:
+      213: -4646015602516060915
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_171
+  - first:
+      213: -1405522575929315820
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_172
+  - first:
+      213: -4279044410217052888
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_173
+  - first:
+      213: -4290399900233663809
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_174
+  - first:
+      213: 870100807078115226
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_175
+  - first:
+      213: 8082441597253854851
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_176
+  - first:
+      213: 6325308042557964943
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_177
+  - first:
+      213: -8326218413940210360
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_178
+  - first:
+      213: 5965040094394263978
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_179
+  - first:
+      213: 3715672945411329185
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_180
+  - first:
+      213: 7974131665447346135
+    second: 14-141986_super-mario-bros-castle-sprite-hd-png-download_181
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facbe82e96afac540800000000000000
+      internalID: 5029107266592095407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a464f3f09e9d77cd0800000000000000
+      internalID: -2560338268130425270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf716c9f1ac5a00800000000000000
+      internalID: 746649732379049112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57b380de7455650800000000000000
+      internalID: 6220957543653144006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60304d8c1ea7cd150800000000000000
+      internalID: 5898724722104075014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4bd85cd52a7a980800000000000000
+      internalID: -8527668845772688193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9485ca83c8e75b4a0800000000000000
+      internalID: -6578212539993401271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7246902e70018d360800000000000000
+      internalID: 7194518030767449127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a36795f003652c0800000000000000
+      internalID: -4443311139870852493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96874043dd24de750800000000000000
+      internalID: 6335793768608069737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41132eb16adecfac0800000000000000
+      internalID: -3819917086228860652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce35155759c6293c0800000000000000
+      internalID: -4354298500539657236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dff4a1b6e31cfb0800000000000000
+      internalID: -4629350312236286709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb5724077de3210800000000000000
+      internalID: 1314725018390084729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee702ef364234840800000000000000
+      internalID: 5207045606054330085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619acd86c283b8310800000000000000
+      internalID: 1408281071872420118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6281a484955510800000000000000
+      internalID: 1537298145183165826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221781bfa4829d950800000000000000
+      internalID: 6474250241827172642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097326eac6691b270800000000000000
+      internalID: 8264552184727877520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a51f8e69eef540800000000000000
+      internalID: 5043725293757770069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9549cf7f6802e740800000000000000
+      internalID: 5179711796407780762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6acaf7225019d20800000000000000
+      internalID: 3283411249058850473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6c11ed8bd65a6b0800000000000000
+      internalID: -5285697946882292060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e04a75adc9e0280800000000000000
+      internalID: -9075143737517797736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf88c226519485a90800000000000000
+      internalID: -7325024437727885060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135165d928d22de60800000000000000
+      internalID: 7985495128289973553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b473bc6ee063f1770800000000000000
+      internalID: 8583638852420974411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4db4e29d598cff0800000000000000
+      internalID: -15597838678633231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7a23982c7c26ce0800000000000000
+      internalID: -1413347694701533276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff44fc280b84632b0800000000000000
+      internalID: -5605212763269937921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7ce048680e86400800000000000000
+      internalID: 317750642075420633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cb14dfd7a9ed6b0800000000000000
+      internalID: -5269604648066368491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1578e8fa0ef8410800000000000000
+      internalID: 1481649847043314105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc63c72df8153830800000000000000
+      internalID: 4050170915462540470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3498e98a1cafb80800000000000000
+      internalID: -8360156828301442098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29157fa3fdc92a850800000000000000
+      internalID: 6386839704145711506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a816ba01364a13c0800000000000000
+      internalID: -4388117710472079199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f433ac4de7c3978d0800000000000000
+      internalID: -2848178773901561009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f8c2c6625281890800000000000000
+      internalID: -7487193533549605046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12c0a39a840cf370800000000000000
+      internalID: 8357560001721582110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8aa96170f83ce70800000000000000
+      internalID: 9134301729844275389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc13d1fecbd043c0800000000000000
+      internalID: -4377257155937231632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c422c92d49f0be00800000000000000
+      internalID: 1058620022240453827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f200e4689aa1310800000000000000
+      internalID: 1376599030414454613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c263f1a5e34e00800000000000000
+      internalID: 1027917623706437268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d4ca380a45e570800000000000000
+      internalID: 8495277671310480254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb5e0daf5ccf8b0800000000000000
+      internalID: -5116997395562513394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2297d20fb8059b0800000000000000
+      internalID: -5093417314884705624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b6c3318d95de600800000000000000
+      internalID: 499153918278527823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c529238f3b9a1a10800000000000000
+      internalID: 1880986491466360262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810e7585cf3589cd0800000000000000
+      internalID: -2551196845626367976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffdbb1fba3b372c0800000000000000
+      internalID: -4435003656953405443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0911e6c23d9859970800000000000000
+      internalID: 8761060190195683728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab6cb3938834a730800000000000000
+      internalID: 4009391706037054368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb8dfcfa469c8570800000000000000
+      internalID: 8470310247993281522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd541abcaa259950800000000000000
+      internalID: 6455112562250112432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711e906fabdc6a8d0800000000000000
+      internalID: -2835352712507694825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164466f33cc0a4b70800000000000000
+      internalID: 8883927247663547489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f6d71e9d0ceccd0800000000000000
+      internalID: -2535877498139480281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d9c216f46f19f90800000000000000
+      internalID: -6948501929262801505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb79acd97d9c9af0800000000000000
+      internalID: -388262321142006855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e32645279c0b340800000000000000
+      internalID: 4877619889321426486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_62
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2edfdc879f7d8fe0800000000000000
+      internalID: -1185150838048301525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_63
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4616c69b1d8b14f0800000000000000
+      internalID: -856936154450749878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023878c9514abc7e0800000000000000
+      internalID: -1744120017948540128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aef55cd94dbf730800000000000000
+      internalID: 4034051665326762575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f5d1e5a402ea210800000000000000
+      internalID: 1346048842409008990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_67
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5446cc755cf2afc0800000000000000
+      internalID: -3484945717535554466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecd2dea420c82bb0800000000000000
+      internalID: -4960503725764191001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_69
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd4057f0274e0460800000000000000
+      internalID: 7209778260380503542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_70
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a005cca35461530800000000000000
+      internalID: 3825321052336032392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-141986_super-mario-bros-castle-sprite-hd-png-download_71
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c1343ff63273870800000000000000
+      internalID: 8662431372000042055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
