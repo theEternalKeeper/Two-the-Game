@@ -2068,9 +2068,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  inventory:
+  selectedGuns:
   - {fileID: 1330692406806716541, guid: 607071131018de04b919ba86a80d698f, type: 3}
   - {fileID: 6028417937581299542, guid: 8625bad23d5dbe741be36f71466cf247, type: 3}
+  inventory: []
   gun: {fileID: 0}
   gunLocation: {fileID: 294016952}
   movementDirection: {x: 0, y: 0}

@@ -16,6 +16,8 @@ public class Player1Controller : MonoBehaviour
 
     Rigidbody2D rb;
 
+    public List<GameObject> selectedGuns = new List<GameObject>();
+
     public List<GameObject> inventory = new List<GameObject>();
 
     public GameObject gun;
@@ -29,7 +31,7 @@ public class Player1Controller : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        gun = Instantiate(inventory[0], gunLocation.transform.position, gunLocation.transform.rotation, gunLocation.transform);
+
         controls = new InputMaster();
         rb = gameObject.GetComponent<Rigidbody2D>();
     }
@@ -58,7 +60,14 @@ public class Player1Controller : MonoBehaviour
 
     private void Start()
     {
-        
+        for (int i = 0; i < selectedGuns.Count; i++)
+        {
+            GameObject spawnedGun = Instantiate(selectedGuns[i], gunLocation.transform.position, gunLocation.transform.rotation, gameObject.transform);
+            inventory.Add(spawnedGun);
+            inventory[i].SetActive(false);
+        }
+        gun = inventory[0];
+        gun.SetActive(true);
     }
 
     // Update is called once per frame
@@ -110,8 +119,7 @@ public class Player1Controller : MonoBehaviour
                 inventorySlot = 0;
             }
             Debug.Log(weaponSelect);
-            Destroy(gun);
-            gun = Instantiate(inventory[(int)inventorySlot], gunLocation.transform.position, gunLocation.transform.rotation, gunLocation.transform);
+            WeaponSpawn();
             Debug.Log(inventorySlot);
         }
 
@@ -123,8 +131,7 @@ public class Player1Controller : MonoBehaviour
             if (inventorySlot < 0)
                 inventorySlot = inventory.Count - 1;
             Debug.Log(weaponSelect);
-            Destroy(gun);
-            gun = Instantiate(inventory[(int)inventorySlot], gunLocation.transform.position, gunLocation.transform.rotation, gunLocation.transform);
+            WeaponSpawn();
             Debug.Log(inventorySlot);
         }
 
@@ -138,8 +145,7 @@ public class Player1Controller : MonoBehaviour
         {
             inventorySlot = 0;
         }
-        Destroy(gun);
-        gun = Instantiate(inventory[(int)inventorySlot], gunLocation.transform.position, gunLocation.transform.rotation, gunLocation.transform);
+        WeaponSpawn();
         Debug.Log(inventorySlot);
     }
 
@@ -149,14 +155,17 @@ public class Player1Controller : MonoBehaviour
 
         if (inventorySlot < 0)
             inventorySlot = inventory.Count - 1;
-        Destroy(gun);
-        gun = Instantiate(inventory[(int)inventorySlot], gunLocation.transform.position, gunLocation.transform.rotation, gunLocation.transform);
+        WeaponSpawn();
         Debug.Log(inventorySlot);
     }
     //This makes the player shoot when pressing the shoot button
     private void Shoot_performed(InputAction.CallbackContext obj)
     {
         gun.GetComponent<gunScript>().shooting = true;
+        if (gun.GetComponent<gunScript>().currentMagazineSize == 0)
+        {
+            StartCoroutine(gun.GetComponent<gunScript>().Reload());
+        }
 
     }
     //This makes the player stop shooting with automatic weapons when releasing the button
@@ -166,5 +175,10 @@ public class Player1Controller : MonoBehaviour
 
     }
 
-
+    void WeaponSpawn()
+    {
+        gun.SetActive(false);
+        gun = inventory[(int)inventorySlot];
+        gun.SetActive(true);
+    }
 }

@@ -100,6 +100,7 @@ MonoBehaviour:
   maxSpread: 0.2
   spreadRate: 0.01
   spreadRecovery: 0.01
+  maxMagazineSize: 12
   semiAuto: 1
   shooting: 0
   bullet: {fileID: 5452654994412652133, guid: 4e9c7d06bef45ec45801f0013694ee5f, type: 3}

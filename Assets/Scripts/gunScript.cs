@@ -8,6 +8,9 @@ public class gunScript : MonoBehaviour
 
     private float timeToFire = 0f;
 
+    [SerializeField]
+    float reloadTime = 5f;
+
     public float bulletDamage;
 
     public float currentSpread;
@@ -17,6 +20,10 @@ public class gunScript : MonoBehaviour
     public float spreadRate = 0.1f;
 
     public float spreadRecovery = 0.2f;
+
+    public float maxMagazineSize;
+
+    public float currentMagazineSize;
 
     public bool semiAuto;
 
@@ -30,7 +37,7 @@ public class gunScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        currentMagazineSize = maxMagazineSize;
     }
 
     // Update is called once per frame
@@ -53,8 +60,9 @@ public class gunScript : MonoBehaviour
 
     public void Shoot ()
     {
-        if (semiAuto == true)
+        if (semiAuto == true && currentMagazineSize > 0)
         {
+            currentMagazineSize -= 1;
             shootDirection = gameObject.transform.up;
             shootDirection.x += Random.Range(-currentSpread, currentSpread);
             RaycastHit2D hit = Physics2D.Raycast(gameObject.transform.position, shootDirection, 50f);
@@ -72,10 +80,12 @@ public class gunScript : MonoBehaviour
             {
                 currentSpread = maxSpread;
             }
+
             shooting = false;
         }
-        else if (semiAuto != true && Time.time >= timeToFire)
+        else if (semiAuto != true && Time.time >= timeToFire && currentMagazineSize > 0)
         {
+            currentMagazineSize -= 1;
             shootDirection = gameObject.transform.up;
             shootDirection.x += Random.Range(-currentSpread, currentSpread);
             RaycastHit2D hit = Physics2D.Raycast(gameObject.transform.position, shootDirection, 50f);
@@ -94,6 +104,15 @@ public class gunScript : MonoBehaviour
             }
             timeToFire = Time.time + 1f / rateOfFire;
         };
+    }
+
+    public IEnumerator Reload()
+    {
+        for (float i = 0; i < reloadTime; i ++)
+        {
+            yield return new WaitForSeconds(1f);
+        }
+        currentMagazineSize = maxMagazineSize;
     }
 
     /*        GameObject projectile = Instantiate(bullet, gameObject.transform.position, gameObject.transform.rotation);
