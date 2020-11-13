@@ -14,6 +14,11 @@ public class Player1Controller : MonoBehaviour
 
     float inventorySlot = 0;
 
+    public float maxHealth = 100f;
+
+    [SerializeField] 
+    float currentHealth;
+
     Rigidbody2D rb;
 
     public List<GameObject> selectedGuns = new List<GameObject>();
@@ -34,6 +39,7 @@ public class Player1Controller : MonoBehaviour
 
         controls = new InputMaster();
         rb = gameObject.GetComponent<Rigidbody2D>();
+        currentHealth = maxHealth;
     }
 
     public void OnEnable()
@@ -76,19 +82,16 @@ public class Player1Controller : MonoBehaviour
 
         OnRotate();
         OnwWeaponSelect();
-
-
-        //This block allows the player to change weapon
-
+        if (currentHealth <= 0)
+        {
+            Death();
+        }
 
     }
 
     private void FixedUpdate()
     {
-;
-
         OnMovement();
-
     }
 
     void OnMovement()
@@ -180,5 +183,17 @@ public class Player1Controller : MonoBehaviour
         gun.SetActive(false);
         gun = inventory[(int)inventorySlot];
         gun.SetActive(true);
+    }
+
+    public void TakeDamage(float damage)
+    {
+        currentHealth -= damage;
+    }
+
+    void Death()
+    {
+        GameController gameController = GameObject.FindGameObjectWithTag("GameController").GetComponent<GameController>();
+        gameController.players.Remove(gameObject);
+        Destroy(gameObject);
     }
 }
