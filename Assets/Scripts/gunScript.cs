@@ -33,11 +33,21 @@ public class gunScript : MonoBehaviour
 
     Vector2 shootDirection;
 
+    public Animator animator;
+
+    public AnimationClip reloadAnimation;
+
+
 
     // Start is called before the first frame update
     void Start()
     {
         currentMagazineSize = maxMagazineSize;
+        animator = gameObject.GetComponent<Animator>();
+    }
+
+    private void Update()
+    {
     }
 
     // Update is called once per frame
@@ -67,6 +77,7 @@ public class gunScript : MonoBehaviour
             shootDirection.x += Random.Range(-currentSpread, currentSpread);
             RaycastHit2D hit = Physics2D.Raycast(gameObject.transform.position, shootDirection, 50f);
             Debug.DrawRay(gameObject.transform.parent.position, shootDirection, Color.red);
+            animator.SetBool("IsShooting", true);
             if (hit)
             {
 
@@ -80,7 +91,7 @@ public class gunScript : MonoBehaviour
             {
                 currentSpread = maxSpread;
             }
-
+            animator.SetBool("IsShooting", false);
             shooting = false;
         }
         else if (semiAuto != true && Time.time >= timeToFire && currentMagazineSize > 0)
@@ -90,6 +101,7 @@ public class gunScript : MonoBehaviour
             shootDirection.x += Random.Range(-currentSpread, currentSpread);
             RaycastHit2D hit = Physics2D.Raycast(gameObject.transform.position, shootDirection, 50f);
             Debug.DrawRay(gameObject.transform.parent.position, shootDirection, Color.red);
+            animator.SetBool("IsShooting", true);
             if (hit)
             {
 
@@ -103,16 +115,25 @@ public class gunScript : MonoBehaviour
                 currentSpread = maxSpread;
             }
             timeToFire = Time.time + 1f / rateOfFire;
+            animator.SetBool("IsShooting", false);
         };
     }
 
     public IEnumerator Reload()
     {
-        for (float i = 0; i < reloadTime; i ++)
-        {
-            yield return new WaitForSeconds(1f);
-        }
+            animator.SetBool("IsReloading", true);
+            yield return WaitForAnimation(reloadAnimation);
+        animator.SetBool("IsReloading", false);
         currentMagazineSize = maxMagazineSize;
+
+    }
+
+    private IEnumerator WaitForAnimation(AnimationClip animation)
+    {
+        do
+        {
+            yield return null;
+        } while (animation);
     }
 
     /*        GameObject projectile = Instantiate(bullet, gameObject.transform.position, gameObject.transform.rotation);

@@ -1,4 +1,5 @@
 ﻿using BBUnity.Actions;
+using UnityEngine.AI;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -18,21 +19,34 @@ public class TargetScript : MonoBehaviour
 
     private float myX = 0f;
     private float myY = 0f;
+    public float myZ;
+
+    Animator animator;
+
+    BehaviorExecutor beha;
+
 
     private void Awake()
     {
         currentHealth = maxHealth;
+        animator = gameObject.GetComponent<Animator>();
+        beha = gameObject.GetComponent<BehaviorExecutor>();
     }
 
     private void Update()
     {
+        var target = GetComponent<NavMeshAgent>().nextPosition;
+        Vector3 lookDirection = Vector3.RotateTowards(transform.position, target, 0.0f, 0.0f);
         if (currentHealth <= 0)
         {
             Death();
         }
-        transform.rotation = new Quaternion(myX, myY, transform.rotation.z, 0);
         timeToAttack -= Time.deltaTime;
+        float lookY = lookDirection.y;
+        float lookX = lookDirection.x;
+        float angle = Mathf.Atan2(lookY, lookX) * Mathf.Rad2Deg;
 
+        transform.rotation = Quaternion.LookRotation(new Vector3(0, 0, angle));
     }
 
     public void ApplyDamage(float damage)
@@ -52,8 +66,10 @@ public class TargetScript : MonoBehaviour
         if (timeToAttack <= 0)
         {
             FindClosestEnemy();
+            animator.SetBool("IsAttacking", true);
             FindClosestEnemy().GetComponent<Player1Controller>().TakeDamage(damage);
             timeToAttack = rateOfAttack;
+            animator.SetBool("IsAttacking", false);
         }
 
     }

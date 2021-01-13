@@ -16,6 +16,8 @@ public class Player1Controller : MonoBehaviour
 
     public float maxHealth = 100f;
 
+    public float turnSpeed = 1;
+
     [SerializeField] 
     float currentHealth;
 
@@ -40,6 +42,9 @@ public class Player1Controller : MonoBehaviour
         controls = new InputMaster();
         rb = gameObject.GetComponent<Rigidbody2D>();
         currentHealth = maxHealth;
+
+        GameObject gameController = GameObject.Find("GameController");
+        gameController.GetComponent<GameController>().players.Add(gameObject);
     }
 
     public void OnEnable()
@@ -68,7 +73,7 @@ public class Player1Controller : MonoBehaviour
     {
         for (int i = 0; i < selectedGuns.Count; i++)
         {
-            GameObject spawnedGun = Instantiate(selectedGuns[i], gunLocation.transform.position, gunLocation.transform.rotation, gameObject.transform);
+            GameObject spawnedGun = Instantiate(selectedGuns[i], transform.position, transform.rotation, gameObject.transform);
             inventory.Add(spawnedGun);
             inventory[i].SetActive(false);
         }
@@ -82,6 +87,8 @@ public class Player1Controller : MonoBehaviour
 
         OnRotate();
         OnwWeaponSelect();
+        OnWeaponSelectIncrease();
+        OnWeaponSelectDecrease();
         if (currentHealth <= 0)
         {
             Death();
@@ -102,11 +109,15 @@ public class Player1Controller : MonoBehaviour
 
     void OnRotate()
     {
-        Vector2 mousePosition = controls.Player.Rotate.ReadValue<Vector2>();
+ 
+            float lookY = controls.Player.Rotate.ReadValue<Vector2>().y;
+            float lookX = controls.Player.Rotate.ReadValue<Vector2>().x;
+            float angle = Mathf.Atan2(lookY, lookX) * Mathf.Rad2Deg;
 
-        mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
+            Quaternion aimDirection = Quaternion.AngleAxis(angle, Vector3.forward);
+            Debug.Log("angle: " + angle);
+            gameObject.transform.rotation = Quaternion.RotateTowards(transform.rotation, aimDirection, turnSpeed * Time.deltaTime);
 
-        transform.rotation = Quaternion.LookRotation(Vector3.forward, mousePosition - rb.position);
     }
 
     void OnwWeaponSelect()

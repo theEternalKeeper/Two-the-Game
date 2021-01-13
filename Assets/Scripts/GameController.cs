@@ -11,10 +11,6 @@ public class GameController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        foreach (GameObject fooObj in GameObject.FindGameObjectsWithTag("Player"))
-        {
-            players.Add(fooObj);
-        }
         foreach (GameObject fooObj in GameObject.FindGameObjectsWithTag("Enemy"))
         {
             enemies.Add(fooObj);
